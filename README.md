@@ -1,7 +1,19 @@
 # node-screen-shot-app
+
 Takes screenshot of a webpage
-entry point - index.js
 
+## Install Dependencies
 
-# Run App
-node index.js
+```
+npm install
+```
+
+## Run App
+
+```
+npm start
+```
+
+- Version: 1.0.0
+- License: MIT
+- Author: Srinivas
