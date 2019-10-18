@@ -4,4 +4,5 @@ entry point - index.js
 
 
 # Run App
-node index.js
+npm install
+npm start
