@@ -1,0 +1,15 @@
+{
+  "name": "screen-shot-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Srinivas",
+  "license": "MIT",
+  "dependencies": {
+    "jshint": "^2.10.2",
+    "puppeteer": "^1.20.0"
+  }
+}
